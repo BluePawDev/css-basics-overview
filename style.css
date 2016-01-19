@@ -59,10 +59,10 @@ a:active {
 /* Main Styles --------------------- */
 
 .main-header {
-  background-color: #ffa949;
   padding-top: 170px;
   height: 850px;
- }
+  background: #ffa949 url('../img/mountains.jpg') no-repeat center / cover;
+}
 
 .title {
   color: white;
@@ -114,10 +114,10 @@ a:active {
 .primary-content, 
 .secondary-content {
   width: 75%;
-  max-width: 900px;
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
+  max-width: 960px;
 }
 
 .wildlife {
@@ -131,3 +131,10 @@ a:active {
 .arrow {
   width: 50px;
 }
+
+
+
+
+
+
+
